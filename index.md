@@ -1,4 +1,4 @@
-## Welcome EcentricX
+# Welcome to this EccentriCity
 
 You can use the [editor on GitHub](https://github.com/EccentricX/EccentricX.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
